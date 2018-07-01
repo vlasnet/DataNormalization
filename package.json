@@ -1,0 +1,13 @@
+{
+  "name": "react_hometask_2",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "dependencies": {
+    "normalizr": "^3.2.4",
+    "parcel-bundler": "^1.9.2"
+  }
+}
